@@ -1,4 +1,4 @@
-#vue-boiler
+#__PROJECTNAME
 
 
 Tricks included:

@@ -1,5 +1,5 @@
 {
-  "name": "component-nodes",
+  "name": "__PROJECTNAME",
   "version": "0.1.0",
   "devDependencies": {
     "babelify": "^5.0.3",
