@@ -1,17 +1,18 @@
 #__PROJECTNAME
 
-
 Tricks included:
 
 * Browserify
-* Vue
+* Vue 2
 * Vue-router
-* Vue-resource
-* ES6
+* ES6 | Babel
 
 **Project Enviroments**
 
 The build process has been scripted directly using the CLI and NPM scripts.
+
+#### Firstrun
+`npm run create` will create directory structure required to develop into. On complete it will launch `npm start` as normal.
 
 #### Dev
 
